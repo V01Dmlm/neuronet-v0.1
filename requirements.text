@@ -1,8 +1,11 @@
 transformers==4.40.1
-datasets==2.19.0
 torch>=1.13.0
-PyQt6==6.7.0
-duckduckgo-search==4.5
 sentencepiece==0.2.0
-scipy
+datasets==2.19.0
+duckduckgo-search==4.5
+PyQt6==6.7.0
+biopython>=1.83
 requests
+scipy
+tqdm
+numpy
